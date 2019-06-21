@@ -1,0 +1,13 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+
+[packages]
+pyserial = {path = "/home/ytr/Downloads/pyserial-3.4-py2.py3-none-any.whl"}
+
+[requires]
+python_version = "3.5"

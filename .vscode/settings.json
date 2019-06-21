@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/home/ytr/.local/share/virtualenvs/serialsender-N4T4Gxuf/bin/python"
+}
